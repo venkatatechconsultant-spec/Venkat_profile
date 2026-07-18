@@ -1,6 +1,6 @@
 ﻿# Venkat_profile
 
-Professional consulting profile for Venkata Ramana, focused on freelance .NET, Azure, SQL Server, production support, and enterprise application maintenance for US and UK clients.
+Professional consulting profile for Venkata Ramana — focused on **freelance .NET + Azure production support**, **enterprise application maintenance**, and **SQL Server performance tuning** for **US & UK teams**.
 
 ## Live Site
 
@@ -8,31 +8,65 @@ Professional consulting profile for Venkata Ramana, focused on freelance .NET, A
 https://venkatatechconsultant-spec.github.io/Venkat_profile/
 ```
 
-## Included
+## Positioning (Privacy + Delivery)
+- Current leadership experience is provided with the employer **name masked** as **“MNC company (name masked)”**.
+- Engagements are supported by a **42-member team** (development, QA, DevOps, BA, and support functions) to ensure fast, reliable outcomes.
 
-- Azure-inspired responsive consulting website`r`n- Bronze, Silver, and Gold monthly support packages
-- SEO and Open Graph metadata for LinkedIn sharing
-- Resume download link
-- Copy email button
-- Back-to-top button
-- Dark/light mode toggle
-- Scroll reveal animations
-- GitHub Pages deployment workflow
+## What I Do (Freelance Support)
+I help CTOs, founders, and product teams keep critical systems stable and improve performance through:
 
-## GitHub Pages Deployment
+- **Production Support (L2/L3 style)**
+  - incident resolution, triage, RCA, bug fixes
+- **Azure/.NET Maintenance**
+  - application health, troubleshooting, operational improvements
+- **SQL Server Tuning**
+  - query optimization, indexing strategy, stored procedure improvements
+- **Release & Deployment Support**
+  - monitoring, safer releases, operational guidance
 
-Every push to `main` can deploy automatically through `.github/workflows/deploy.yml`.
+## Support Packages (Monthly)
+Choose a plan based on how much ongoing production support and maintenance your team needs.
 
-In GitHub, configure Pages with:
+### Bronze — **$600/month**
+- ~1 hour/day remote support
+- Bug fixes & small code changes
+- Basic monitoring and health checks
+- Email-based coordination
 
-```text
-Settings > Pages > Source: GitHub Actions
-```
+### Silver — **$1,200/month**
+- ~2 hours/day remote support
+- Production support (L2-style triage & fixes)
+- Small enhancements and scheduled maintenance
+- SQL Server tuning (query/index improvements)
+- Azure monitoring & operational guidance
+
+### Gold — **$2,000/month**
+- ~3 hours/day remote support
+- L2/L3 support & root-cause ownership
+- Azure Functions / App Service support
+- Release and deployment support
+- Incident management & follow-up hardening
+- Performance optimization (apps + SQL)
+- Priority response window
+
+## Availability
+- **9 PM – 12 AM IST** (best overlap with **UK afternoon** and **US morning**)
+- Weekend coverage is available based on pre-booking and operational need.
+
+## Technical Stack (Highlights)
+- **.NET / ASP.NET / Web APIs / Azure Functions / Azure App Services**
+- **SQL Server**
+- **Azure DevOps**
+- **Entity Framework, REST API, Microservices**
+- **Docker, Git**
 
 ## Contact
-
 ```text
-venkata.techconsultant@gmail.com
+Email: venkata.techconsultant@gmail.com
+Phone: +91 7901646465
+Location: Hyderabad, India
 ```
 
+## Notes
+- Employer name is intentionally masked to protect confidentiality: **“MNC company (name masked)”**.
 
